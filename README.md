@@ -1,2 +1,2 @@
 # PONG-CON
-Pong Console Game
+PONG-CON is a console-based version of the game "Pong" written in C#.
