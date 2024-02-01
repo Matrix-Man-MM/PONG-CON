@@ -1,9 +1,11 @@
-﻿namespace PONG_CON
+namespace PONG_CON
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            Console.CursorVisible = false;
+
             Game.ScrollbarRemoval();
             Game.SetInitialPositions();
 
